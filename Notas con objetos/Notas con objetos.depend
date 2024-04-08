@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1712614102 source:c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\src\alumno.cpp
+	"Alumno.h"
+	<iostream>
+	<iomanip>
+
+1712614102 c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\include\alumno.h
+	<string>
+	<vector>
+
+1712614102 source:c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\src\utilidades.cpp
+	"Utilidades.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1712614102 c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\include\utilidades.h
+	<string>
+	<vector>
+
+1712614952 source:c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\main.cpp
+	"notas.h"
+	"Alumno.h"
+	"Utilidades.h"
+	<iostream>
+	<vector>
+
+1712614845 c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\include\notas.h
+	<string>
+
+1712616821 source:c:\users\josue\onedrive\escritorio\parcial 1\notas con objetos\src\notas.cpp
+	"notas.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
